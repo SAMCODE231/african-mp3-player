@@ -42,7 +42,7 @@ body {
   font-size: var(--fluid-typography);
   margin: 0;
   padding: 0;
-  position: static;
+  position: fixed;
 }
 
 h1 {
