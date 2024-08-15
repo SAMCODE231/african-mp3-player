@@ -107,7 +107,7 @@ const allSongs = [
   },
   {
     id: 14,
-    title: "–Lomo Lomo ",
+    title: "Lomo Lomo ",
     artist: "KiDi Ft. Black Sherif",
     duration: "2:44",
     src: "https://cdn.six9ja.com/wp-content/uploads/2024/07/KiDi_Ft_Black_Sherif_-_Lomo_Lomo.mp3",
